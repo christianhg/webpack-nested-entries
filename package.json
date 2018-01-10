@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dist": "trash dist && webpack"
+  },
+  "devDependencies": {
+    "trash-cli": "^1.4.0",
+    "webpack": "^3.10.0"
+  }
+}
